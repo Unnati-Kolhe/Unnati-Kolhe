@@ -3,10 +3,10 @@
 <!--<img align="right" width="50%" src="">-->
 
 - :anchor:	Primary coding language Java
-- :hourglass:	 I’m currently looking for an internship :)
-- 🥅 2021 Goals: Expertise in web development(Backend), contribute to Open Source projects and grow as a developer!
+- :hourglass:	 I’m currently looking for a Summer Internship :)
+- 🥅 2022 Goals: Expertise in web development(Backend), contribute to Open Source projects and grow as a developer!
 - ⚡ Facts about me: I love reading books and watch movies, series!
-- 📫 The best way to reach me **unnatikolhe@gmail.com**
+- 📫 The best way to reach me *kolhe.u@northeastern.edu**
 - 😄 Pronouns: She/Her/Bro
 
 <!--- 🔭 I’m currently getting my grip on Competitive Coding-->
