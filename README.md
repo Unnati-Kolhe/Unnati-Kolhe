@@ -23,17 +23,15 @@
 
 #### My Tech Stack ✍️
 
-##### Front-End Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
 ##### Languages
-![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=C)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+##### Frameworks
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!--[![Unnati's GitHub stats](https://github-readme-stats.vercel.app/api?username=unnatik&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -43,6 +41,4 @@
 
 
 [Hashnode]: https://unnatikolhe.hashnode.dev/
-[gmail]: https://gmail.com
 [LinkedIn]: https://www.linkedin.com/in/unnati-kolhe/
-[Facebook]: https://www.facebook.com/unnati.kolhe/
